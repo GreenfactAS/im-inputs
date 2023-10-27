@@ -32,13 +32,21 @@ segments:
 
 technologies:
   cement:
-    - conventional
-    - ccs
-    - af
-    - af_ccs
-    - af_lower_clinker_cement_ratio_ccs
-    - lower_clinker_cement_ratio
-    - af_lower_clinker_cement_ratio
-    - lower_clinker_cement_ratio_ccs
+  - conventional
+  - ccs
+  - af
+  - af_ccs
+  - af_lower_clinker_cement_ratio_ccs
+  - lower_clinker_cement_ratio
+  - af_lower_clinker_cement_ratio
+  - lower_clinker_cement_ratio_ccs
 
-years: [2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050]
+start_year: 2024
+end_year: 2050
+
+commodities:
+  - electricity
+  - biomass
+  - fuel
+
+
