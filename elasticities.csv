@@ -1,0 +1,331 @@
+segment,region,elasticity
+Steel,austria,0
+Steel,belgium,0
+Steel,bulgaria,0
+Steel,croatia,0
+Steel,cyprus,0
+Steel,czechia,0
+Steel,denmark,0
+Steel,estonia,0
+Steel,finland,0
+Steel,france,0
+Steel,germany,0
+Steel,greece,0
+Steel,hungary,0
+Steel,ireland,0
+Steel,italy,0
+Steel,latvia,0
+Steel,lithuania,0
+Steel,luxembourg,0
+Steel,malta,0
+Steel,netherlands,0
+Steel,poland,0
+Steel,portugal,0
+Steel,romania,0
+Steel,slovakia,0
+Steel,slovenia,0
+Steel,spain,0
+Steel,sweden,0
+Steel,liechtenstein,0
+Steel,norway,0
+Steel,iceland,0
+Cement,austria,0
+Cement,belgium,0
+Cement,bulgaria,0
+Cement,croatia,0
+Cement,cyprus,0
+Cement,czechia,0
+Cement,denmark,0
+Cement,estonia,0
+Cement,finland,0
+Cement,france,0
+Cement,germany,0
+Cement,greece,0
+Cement,hungary,0
+Cement,ireland,0
+Cement,italy,0
+Cement,latvia,0
+Cement,lithuania,0
+Cement,luxembourg,0
+Cement,malta,0
+Cement,netherlands,0
+Cement,poland,0
+Cement,portugal,0
+Cement,romania,0
+Cement,slovakia,0
+Cement,slovenia,0
+Cement,spain,0
+Cement,sweden,0
+Cement,liechtenstein,0
+Cement,norway,0
+Cement,iceland,0
+Ammonia,austria,0
+Ammonia,belgium,0
+Ammonia,bulgaria,0
+Ammonia,croatia,0
+Ammonia,cyprus,0
+Ammonia,czechia,0
+Ammonia,denmark,0
+Ammonia,estonia,0
+Ammonia,finland,0
+Ammonia,france,0
+Ammonia,germany,0
+Ammonia,greece,0
+Ammonia,hungary,0
+Ammonia,ireland,0
+Ammonia,italy,0
+Ammonia,latvia,0
+Ammonia,lithuania,0
+Ammonia,luxembourg,0
+Ammonia,malta,0
+Ammonia,netherlands,0
+Ammonia,poland,0
+Ammonia,portugal,0
+Ammonia,romania,0
+Ammonia,slovakia,0
+Ammonia,slovenia,0
+Ammonia,spain,0
+Ammonia,sweden,0
+Ammonia,liechtenstein,0
+Ammonia,norway,0
+Ammonia,iceland,0
+Plastics,austria,0
+Plastics,belgium,0
+Plastics,bulgaria,0
+Plastics,croatia,0
+Plastics,cyprus,0
+Plastics,czechia,0
+Plastics,denmark,0
+Plastics,estonia,0
+Plastics,finland,0
+Plastics,france,0
+Plastics,germany,0
+Plastics,greece,0
+Plastics,hungary,0
+Plastics,ireland,0
+Plastics,italy,0
+Plastics,latvia,0
+Plastics,lithuania,0
+Plastics,luxembourg,0
+Plastics,malta,0
+Plastics,netherlands,0
+Plastics,poland,0
+Plastics,portugal,0
+Plastics,romania,0
+Plastics,slovakia,0
+Plastics,slovenia,0
+Plastics,spain,0
+Plastics,sweden,0
+Plastics,liechtenstein,0
+Plastics,norway,0
+Plastics,iceland,0
+Hydrogen,austria,0
+Hydrogen,belgium,0
+Hydrogen,bulgaria,0
+Hydrogen,croatia,0
+Hydrogen,cyprus,0
+Hydrogen,czechia,0
+Hydrogen,denmark,0
+Hydrogen,estonia,0
+Hydrogen,finland,0
+Hydrogen,france,0
+Hydrogen,germany,0
+Hydrogen,greece,0
+Hydrogen,hungary,0
+Hydrogen,ireland,0
+Hydrogen,italy,0
+Hydrogen,latvia,0
+Hydrogen,lithuania,0
+Hydrogen,luxembourg,0
+Hydrogen,malta,0
+Hydrogen,netherlands,0
+Hydrogen,poland,0
+Hydrogen,portugal,0
+Hydrogen,romania,0
+Hydrogen,slovakia,0
+Hydrogen,slovenia,0
+Hydrogen,spain,0
+Hydrogen,sweden,0
+Hydrogen,liechtenstein,0
+Hydrogen,norway,0
+Hydrogen,iceland,0
+Pulp and Paper,austria,0
+Pulp and Paper,belgium,0
+Pulp and Paper,bulgaria,0
+Pulp and Paper,croatia,0
+Pulp and Paper,cyprus,0
+Pulp and Paper,czechia,0
+Pulp and Paper,denmark,0
+Pulp and Paper,estonia,0
+Pulp and Paper,finland,0
+Pulp and Paper,france,0
+Pulp and Paper,germany,0
+Pulp and Paper,greece,0
+Pulp and Paper,hungary,0
+Pulp and Paper,ireland,0
+Pulp and Paper,italy,0
+Pulp and Paper,latvia,0
+Pulp and Paper,lithuania,0
+Pulp and Paper,luxembourg,0
+Pulp and Paper,malta,0
+Pulp and Paper,netherlands,0
+Pulp and Paper,poland,0
+Pulp and Paper,portugal,0
+Pulp and Paper,romania,0
+Pulp and Paper,slovakia,0
+Pulp and Paper,slovenia,0
+Pulp and Paper,spain,0
+Pulp and Paper,sweden,0
+Pulp and Paper,liechtenstein,0
+Pulp and Paper,norway,0
+Pulp and Paper,iceland,0
+Glass and Cermaics,austria,0
+Glass and Cermaics,belgium,0
+Glass and Cermaics,bulgaria,0
+Glass and Cermaics,croatia,0
+Glass and Cermaics,cyprus,0
+Glass and Cermaics,czechia,0
+Glass and Cermaics,denmark,0
+Glass and Cermaics,estonia,0
+Glass and Cermaics,finland,0
+Glass and Cermaics,france,0
+Glass and Cermaics,germany,0
+Glass and Cermaics,greece,0
+Glass and Cermaics,hungary,0
+Glass and Cermaics,ireland,0
+Glass and Cermaics,italy,0
+Glass and Cermaics,latvia,0
+Glass and Cermaics,lithuania,0
+Glass and Cermaics,luxembourg,0
+Glass and Cermaics,malta,0
+Glass and Cermaics,netherlands,0
+Glass and Cermaics,poland,0
+Glass and Cermaics,portugal,0
+Glass and Cermaics,romania,0
+Glass and Cermaics,slovakia,0
+Glass and Cermaics,slovenia,0
+Glass and Cermaics,spain,0
+Glass and Cermaics,sweden,0
+Glass and Cermaics,liechtenstein,0
+Glass and Cermaics,norway,0
+Glass and Cermaics,iceland,0
+Low temperature heat,austria,0
+Low temperature heat,belgium,0
+Low temperature heat,bulgaria,0
+Low temperature heat,croatia,0
+Low temperature heat,cyprus,0
+Low temperature heat,czechia,0
+Low temperature heat,denmark,0
+Low temperature heat,estonia,0
+Low temperature heat,finland,0
+Low temperature heat,france,0
+Low temperature heat,germany,0
+Low temperature heat,greece,0
+Low temperature heat,hungary,0
+Low temperature heat,ireland,0
+Low temperature heat,italy,0
+Low temperature heat,latvia,0
+Low temperature heat,lithuania,0
+Low temperature heat,luxembourg,0
+Low temperature heat,malta,0
+Low temperature heat,netherlands,0
+Low temperature heat,poland,0
+Low temperature heat,portugal,0
+Low temperature heat,romania,0
+Low temperature heat,slovakia,0
+Low temperature heat,slovenia,0
+Low temperature heat,spain,0
+Low temperature heat,sweden,0
+Low temperature heat,liechtenstein,0
+Low temperature heat,norway,0
+Low temperature heat,iceland,0
+High temperature heat,austria,0
+High temperature heat,belgium,0
+High temperature heat,bulgaria,0
+High temperature heat,croatia,0
+High temperature heat,cyprus,0
+High temperature heat,czechia,0
+High temperature heat,denmark,0
+High temperature heat,estonia,0
+High temperature heat,finland,0
+High temperature heat,france,0
+High temperature heat,germany,0
+High temperature heat,greece,0
+High temperature heat,hungary,0
+High temperature heat,ireland,0
+High temperature heat,italy,0
+High temperature heat,latvia,0
+High temperature heat,lithuania,0
+High temperature heat,luxembourg,0
+High temperature heat,malta,0
+High temperature heat,netherlands,0
+High temperature heat,poland,0
+High temperature heat,portugal,0
+High temperature heat,romania,0
+High temperature heat,slovakia,0
+High temperature heat,slovenia,0
+High temperature heat,spain,0
+High temperature heat,sweden,0
+High temperature heat,liechtenstein,0
+High temperature heat,norway,0
+High temperature heat,iceland,0
+Oil and Gas,austria,0
+Oil and Gas,belgium,0
+Oil and Gas,bulgaria,0
+Oil and Gas,croatia,0
+Oil and Gas,cyprus,0
+Oil and Gas,czechia,0
+Oil and Gas,denmark,0
+Oil and Gas,estonia,0
+Oil and Gas,finland,0
+Oil and Gas,france,0
+Oil and Gas,germany,0
+Oil and Gas,greece,0
+Oil and Gas,hungary,0
+Oil and Gas,ireland,0
+Oil and Gas,italy,0
+Oil and Gas,latvia,0
+Oil and Gas,lithuania,0
+Oil and Gas,luxembourg,0
+Oil and Gas,malta,0
+Oil and Gas,netherlands,0
+Oil and Gas,poland,0
+Oil and Gas,portugal,0
+Oil and Gas,romania,0
+Oil and Gas,slovakia,0
+Oil and Gas,slovenia,0
+Oil and Gas,spain,0
+Oil and Gas,sweden,0
+Oil and Gas,liechtenstein,0
+Oil and Gas,norway,0
+Oil and Gas,iceland,0
+Aviation,austria,0
+Aviation,belgium,0
+Aviation,bulgaria,0
+Aviation,croatia,0
+Aviation,cyprus,0
+Aviation,czechia,0
+Aviation,denmark,0
+Aviation,estonia,0
+Aviation,finland,0
+Aviation,france,0
+Aviation,germany,0
+Aviation,greece,0
+Aviation,hungary,0
+Aviation,ireland,0
+Aviation,italy,0
+Aviation,latvia,0
+Aviation,lithuania,0
+Aviation,luxembourg,0
+Aviation,malta,0
+Aviation,netherlands,0
+Aviation,poland,0
+Aviation,portugal,0
+Aviation,romania,0
+Aviation,slovakia,0
+Aviation,slovenia,0
+Aviation,spain,0
+Aviation,sweden,0
+Aviation,liechtenstein,0
+Aviation,norway,0
+Aviation,iceland,0
